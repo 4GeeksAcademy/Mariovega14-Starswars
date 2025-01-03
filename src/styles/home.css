@@ -1,0 +1,14 @@
+
+
+.logo{
+    width: 100px;
+    height: 60px;
+}
+
+.scroll-character {
+    overflow-x: scroll; 
+    display: flex; 
+    gap: 1rem; 
+    padding: 1rem;
+    border: 1px solid #ddd; 
+}
